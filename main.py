@@ -44,6 +44,6 @@ print(XOR(1,0))
 print(XOR(0,0))
 print(XOR(1,1))
 
-
+哈哈哈哈哈哈
 
 
